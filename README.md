@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashwant Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Yashwant </h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/5jdT8qkG/github-readme.gif">
 
